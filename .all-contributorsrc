@@ -2,7 +2,7 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
+  "imageSize": 20,
   "commit": false,
   "contributors": [
     {
@@ -13,6 +13,15 @@
       "contributions": [
         "design",
         "code"
+      ]
+    },
+    {
+      "login": "kateshaowanjou",
+      "name": "Kate Shao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58837504?v=4",
+      "profile": "https://github.com/kateshaowanjou",
+      "contributions": [
+        "content"
       ]
     }
   ],
